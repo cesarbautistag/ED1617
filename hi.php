@@ -1,6 +1,6 @@
 <?php
 
-echo "hi guys";
+echo "hi guys how u doin";
 
 
 ?>
